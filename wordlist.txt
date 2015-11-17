@@ -7,6 +7,9 @@ computational
 numerical
 type
 abstract
+analytic
+differential
+artificial
 !
 aeronautics
 computing
