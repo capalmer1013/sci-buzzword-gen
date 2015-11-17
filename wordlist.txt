@@ -1,11 +1,15 @@
+theoretical
 discrete
 algebraic
 quantum
 numerical
 computational
-number
+numerical
 type
+abstract
 !
+aeronautics
+computing
 biology
 logic
 model
@@ -22,3 +26,10 @@ topology
 analysis
 theory
 mechanics
+zoology
+thermodynamics
+linguistics
+acoustics
+epistemology
+metaphysics
+ethics
